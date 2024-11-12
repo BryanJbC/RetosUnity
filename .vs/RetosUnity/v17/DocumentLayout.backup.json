@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\scoreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|d:\\10 ciclo\\desarrollo de videojuegos\\retosunity\\retosunity\\assets\\scripts\\proyectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proyectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\enemyia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFD63F3-7643-FC14-4723-07C7048F4343}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyIA.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\EnemyIA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyIA.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\EnemyIA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyIA.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:28:41.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:04:29.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScorePlayer.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\ScorePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScorePlayer.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\ScorePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScorePlayer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:30:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:00:17.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:46:30.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectileController.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\ProyectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProyectileController.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\ProyectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProyectileController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:45:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:40:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\10 ciclo\\Desarrollo de videojuegos\\RetosUnity\\RetosUnity\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:58:54.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

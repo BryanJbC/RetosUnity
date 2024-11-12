@@ -1,0 +1,9 @@
+# Ignore temporary Unity files
+Temp/
+Library/
+Build/
+.vs/
+.idea/
+.user/
+*.suo
+*.userprefs
